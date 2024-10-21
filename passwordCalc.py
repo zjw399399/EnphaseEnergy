@@ -3,7 +3,7 @@
 import hashlib
 import time
 
-serialNumber = b'122112123456'
+serialNumber = b'121515025599'
 userName = b'installer'
 
 DEFAULT_REALM = b'enphaseenergy.com'
